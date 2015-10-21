@@ -1,2 +1,8 @@
-# generic-gulp
-A series gulp build tasks for generic purpose
+# Generic Gulp
+
+## Usage
+
+ - copy your project under it
+ - `npm install`
+ - `gulp watch`
+

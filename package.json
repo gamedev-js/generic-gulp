@@ -1,0 +1,27 @@
+{
+  "name": "generic-gulp",
+  "version": "0.0.1",
+  "description": "Generic Gulp Tasks",
+  "license": "MIT",
+  "repository": "exsdk/generic-gulp",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "*",
+    "chalk": "*",
+    "gulp": "3.9.0",
+    "gulp-babel": "5.2.1",
+    "gulp-changed": "1.3.0",
+    "gulp-jshint": "1.11.2",
+    "gulp-less": "3.0.3",
+    "gulp-sequence": "0.4.1",
+    "gulp-stylus": "2.0.7",
+    "gulp-watch": "4.3.5",
+    "jshint-stylish": "2.0.1",
+    "mocha": "*",
+    "sinon": "*"
+  }
+}
